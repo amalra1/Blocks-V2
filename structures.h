@@ -29,4 +29,9 @@
 //MENU_OPTIONS---------------------
 //---------------------------------
 
+typedef struct 
+{
+    ALLEGRO_BITMAP* MenuBackground;
+} Images_t;
+
 #endif
